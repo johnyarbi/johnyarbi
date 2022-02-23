@@ -8,6 +8,13 @@
   - Twitter:  [@johnyarbi](https://twitter.com/johnyarbi)
   - Discord:  @johnyarbi#0985
 
+Additional links to my work:
+  - [EXP4 LLC](http://exp4.us) - Freelance consulting and professional services.
+  - [MIT Data Science ePortfolio](https://eportfolio.mygreatlearning.com/john-yarborough) - Project details for coursework completed through MIT-PE ADSP.
+  - [YarbiSoft Blog](http://www.yarbisoft.com) - Old blog with technical articles and ramblings.
+  - [Renewed Wellness LLC](https://renewed-wellness.com) - The wellness center that my wife and I own.  Find us on the Team page.
+  - [experienced.pro](http://experienced.pro) - Redirects to my LinkedIn profile but have plans to turn it into a platform.
+
 <!---
 johnyarbi/johnyarbi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
